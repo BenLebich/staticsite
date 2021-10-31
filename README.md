@@ -1,0 +1,1 @@
+Testing statis website with netlify!
